@@ -155,6 +155,9 @@ int main() {
 	
     cout << "Hello World";
 
-
+    int p, q;
+    p = 114;
+    q = 514;
+    cout >> p * q;
     return 0;
 }
